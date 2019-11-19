@@ -1,0 +1,6 @@
+server0 ansible_user=root
+control ansible_user=root
+
+[wiki]
+server0
+
